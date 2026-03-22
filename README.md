@@ -72,8 +72,6 @@ Board selection:
 
 NodeMCU 1.0 (ESP-12E Module)   
 
-                                                                              5. Open Chat Interface
-
 Open browser:
 
 http://192.168.4.1
