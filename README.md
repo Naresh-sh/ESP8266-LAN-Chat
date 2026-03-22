@@ -13,11 +13,13 @@ Group chat + private chat
 Typing indicator
 Unread message counter
 Message timestamps
+
 😀 Emoji & Reactions
 Built-in emoji picker
 Emoji search
 Quick reactions (👍 😂 😮 😢 🔥 💯 😈)
 Reaction counters synced across users
+
 🧠 Smart System
 Automatic user detection
 Message history restore (last 45 seconds)
