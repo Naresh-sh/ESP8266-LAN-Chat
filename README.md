@@ -12,7 +12,6 @@ Built using WebSockets + JSON, the system provides fast, interactive, and lightw
 💬 Real-time Messaging
 '
 '
-'
 Group chat + private chat
 Typing indicator
 Unread message counter
