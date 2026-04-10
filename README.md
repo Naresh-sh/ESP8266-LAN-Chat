@@ -1,4 +1,4 @@
-⚔️ NodeX LAN Chat
+-------------------------------------------------------------------------------⚔️ NodeX LAN Chat------------------------------------------------------------------------------------
 
 ⚔️ NodeX LAN Chat (ESP8266)
 
@@ -72,5 +72,5 @@ Login password:
 112211
 
 Enter any username and start chatting 🎉
-<img width="1920" height="1053" alt="Screenshot from 2026-03-22 22-20-33" src="https://github.com/user-attachments/assets/e01b4cd3-4654-4813-b1ae-decdbc447740" />
 <img width="1920" height="1053" alt="Screenshot from 2026-03-22 22-20-20" src="https://github.com/user-attachments/assets/8cecb4b1-d9b8-4607-b697-ffae0ada5dc2" />
+<img width="1920" height="1053" alt="Screenshot from 2026-03-22 22-20-33" src="https://github.com/user-attachments/assets/e01b4cd3-4654-4813-b1ae-decdbc447740" />
