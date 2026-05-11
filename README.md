@@ -74,3 +74,6 @@ Login password:
 Enter any username and start chatting 🎉
 <img width="1920" height="1053" alt="Screenshot from 2026-03-22 22-20-20" src="https://github.com/user-attachments/assets/8cecb4b1-d9b8-4607-b697-ffae0ada5dc2" />
 <img width="1920" height="1053" alt="Screenshot from 2026-03-22 22-20-33" src="https://github.com/user-attachments/assets/e01b4cd3-4654-4813-b1ae-decdbc447740" />
+<img width="1600" height="1340" alt="WhatsApp Image 2026-05-11 at 2 50 20 PM" src="https://github.com/user-attachments/assets/5d2430f2-b9e6-47c3-89cf-64d65f75ca05" />
+<img width="1600" height="1340" alt="WhatsApp Image 2026-05-11 at 2 50 24 PM" src="https://github.com/user-attachments/assets/7ee7cbcc-4fdc-42d7-8db2-4292103e928b" />
+<img width="1600" height="1340" alt="WhatsApp Image 2026-05-11 at 2 50 28 PM" src="https://github.com/user-attachments/assets/3d622a44-e3ac-4e62-bb8d-0677d0894ed1" />
